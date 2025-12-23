@@ -1,0 +1,22 @@
+
+{
+  "name": "Meditateology",
+  "short_name": "Meditate",
+  "description": "Your professional sanctuary for mindfulness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3209/3209930.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3209/3209930.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
